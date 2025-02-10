@@ -1,6 +1,6 @@
 
 # Hello, I'm Tushar - a Fullstack Web Developer 👋🏼:
-🛜 Web developer since 2022<br>👨🏼‍🎓 Studied computer science at SRM University<br>👨🏼‍💻 currently learning Next.js <br>
+🛜 Web developer since 2022<br>👨🏼‍🎓 Pursuing computer science at SRM University<br>👨🏼‍💻 currently learning Next.js <br>
 
 # 💻 Tech Stack:
 
